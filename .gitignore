@@ -1,0 +1,41 @@
+# RocketMQ related files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# RocketMQ binary distribution
+rocketmq-all-*/
+
+# Log files
+logs/
+*.log
+*.pid
+
+# Temporary files
+temp.md
+*.tmp
+*.temp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Runtime files
+*.pid
+nohup.out
+
+# RocketMQ store data (if any)
+store/
+data/
+
+# Backup files
+*.bak
+*.backup
