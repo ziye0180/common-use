@@ -7,11 +7,11 @@
 ## 下载命令
 
 ```bash
-# 下载 RocketMQ 5.1.4 二进制发行版
-wget https://archive.apache.org/dist/rocketmq/5.1.4/rocketmq-all-5.1.4-bin-release.zip
+# 下载 RocketMQ 5.1.4 二进制发行版 (清华源)
+wget https://mirrors.tuna.tsinghua.edu.cn/apache/rocketmq/5.1.4/rocketmq-all-5.1.4-bin-release.zip
 
-# 或者使用 curl 下载
-curl -O https://archive.apache.org/dist/rocketmq/5.1.4/rocketmq-all-5.1.4-bin-release.zip
+# 或者使用 curl 下载 (清华源)
+curl -O https://mirrors.tuna.tsinghua.edu.cn/apache/rocketmq/5.1.4/rocketmq-all-5.1.4-bin-release.zip
 
 # 解压文件
 unzip rocketmq-all-5.1.4-bin-release.zip
